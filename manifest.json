@@ -1,0 +1,11 @@
+{
+  "id": "bottomlesspit",
+  "name": "bottomless pit",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "TODO list manager",
+  "author": "NotNite",
+  "authorUrl": "https://notnite.com/",
+  "fundingUrl": "https://notnite.com/givememoney",
+  "isDesktopOnly": false
+}

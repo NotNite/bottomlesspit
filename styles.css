@@ -1,0 +1,34 @@
+.bottomlesspit-bar {
+  font-family: var(--font-monospace);
+  background-color: var(--background-primary-alt);
+  gap: 0.5rem;
+  padding: 0;
+}
+
+.bottomlesspit-annotation {
+  background-color: var(--background-secondary-alt);
+  padding: 0.25rem;
+}
+
+.bottomlesspit-bar-item {
+  white-space: pre;
+  background-color: var(--background-secondary-alt);
+  border-radius: 0.25rem;
+
+  padding: 0 0.5rem;
+
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.bottomlesspit-bar-graph {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+}
+
+.bottomlesspit-bar-graph-item {
+  width: 1ch;
+  background-color: var(--status-bar-text-color);
+}
